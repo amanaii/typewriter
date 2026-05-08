@@ -1,4 +1,7 @@
 <p align="center">
+  <p align="center">
+    <img src="assets/preview.png" alt="typewriter preview" width="600">
+  </p>
   <h1 align="center">typewriter</h1>
   <p align="center">
     A fast, polished terminal typing test built in Rust.
